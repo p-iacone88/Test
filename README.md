@@ -1,8 +1,10 @@
 
-# d
+      [![License: GPL](https://img.shields.io/badge/License-GPL-yellow.svg)](https://opensource.org/licenses/GPL)
+      
+# s
 
 ## Description
-d
+s
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,21 +15,20 @@ d
 - [Questions](#questions)
 
 ## Installation
-d
+s
 
 ## Usage
-d
+s
 
 ## License
-[![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg)](https://opensource.org/licenses/ISC)
-
-This project is licensed under the ISC license.
+This project is licensed under the GPL license.
 
 ## Contributing
-d
+s
 
 ## Tests
-d
+s
 
 ## Questions
-For questions about this project, please contact the creator, d, [d](https://github.com/d) at d.
+For questions about this project, please contact the creator, s, [s](https://github.com/s) at s.
+
