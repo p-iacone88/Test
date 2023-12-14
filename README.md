@@ -1,8 +1,8 @@
 
-# a
+# d
 
 ## Description
-a
+d
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,10 +13,10 @@ a
 - [Questions](#questions)
 
 ## Installation
-a
+d
 
 ## Usage
-a
+d
 
 ## License
 [![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg)](https://opensource.org/licenses/ISC)
@@ -24,17 +24,10 @@ a
 This project is licensed under the ISC license.
 
 ## Contributing
-a
+d
 
 ## Tests
-a
+d
 
 ## Questions
-For questions about this project, please contact the creator, a, [a](https://github.com/a) at a.
-
-
-## Tests
-sf
-
-## Questions
-For questions about this project, please contact the creator, sf, [sf](https://github.com/sf) at sf.
+For questions about this project, please contact the creator, d, [d](https://github.com/d) at d.
